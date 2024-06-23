@@ -1,0 +1,9 @@
+matplotlib
+numpy
+tensorflow
+seaborn
+IPython
+tensorflow_datasets
+torch
+torchaudio
+deepfilternet
